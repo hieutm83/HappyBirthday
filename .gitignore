@@ -1,0 +1,12 @@
+# Loại trừ các file lớn và file build
+*.ipch
+*.lib
+*.ilk
+*.obj
+*.log
+*.tlog
+*.idb
+
+# Loại trừ thư mục build
+.vs/
+Release/
